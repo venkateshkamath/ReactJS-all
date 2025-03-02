@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "5e69",
+      "country": "Spain",
+      "cityName": "Montemayor",
+      "notes": "Some data",
+      "date": "2024-12-15T19:30:11.330Z",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "37.664643085620746",
+        "lng": "-4.636230468750001"
+      }
+    },
+    {
+      "id": "01d0",
+      "country": "Portugal",
+      "cityName": "Odemira",
+      "notes": "Odemira",
+      "date": "2024-12-16T03:02:44.672Z",
+      "emoji": "🇵🇹",
+      "position": {
+        "lat": "37.42443558639807",
+        "lng": "-8.393554687500002"
+      }
+    },
+    {
+      "id": "53d3",
+      "country": "Chad",
+      "cityName": "Bardai",
+      "notes": "Test",
+      "date": "2024-12-16T03:03:02.364Z",
+      "emoji": "🇹🇩",
+      "position": {
+        "lat": "20.551872230163898",
+        "lng": "18.435058593750004"
+      }
+    }
+  ]
+}
